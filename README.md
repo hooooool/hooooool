@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hooooool
+👋 Hi, I’m @hooooool
 
 <!---
 hooooool/hooooool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
